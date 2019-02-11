@@ -1,1 +1,2 @@
-
+Issue: Number 13 https://github.com/gzdwsu/RaiderPlanner/issues/13
+Research: Rather than there being a piece of code that is causing a problem the problem is a lack of code. Index.html, while it is operational, does not follow modern website standards. There is a readily avalible file called Normalize.css that is and has been used by plenty of actual web services to ensure that their website has something to display if the users browser cannot display what is being given to it. A good example is internet explorer. IE has trouble displaying many CSS stylings and tools which causes issues in websites that did not program for it. Normalize.css handles this issue by setting a basic standard for all web pages that most browsers will be able to run.
