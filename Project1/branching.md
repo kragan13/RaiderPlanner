@@ -6,4 +6,6 @@ with no problems. This also makes undoing changes easier than if you directly co
 
 2. Pull requests from forks: This strategy is simply described in its title. By having a fork for each user and using pull requests to combine them whe needed it helps to control the clutter than multiple random branches can cause and allows admins to look at the pulls and decide if they help or hurt the project. https://hackernoon.com/a-branching-and-releasing-strategy-that-fits-github-flow-be1b6c48eca2
 
+3. DevOps - DevOps is a basic branching strategy that has the creators create 2 initial branches. Those being master and development. After these branches are created other branches are created for different features that have been developed. https://medium.com/@grazibonizi/the-best-branching-model-to-work-with-git-4008a8098e6a
+
 Our Branching idea: Our branches were just simple branches coming off the master in our own little fork of raiderplanner. We worked on them when needed and requested pulls when it fit our needs. It was all rather independent but it worked out well for our schedules.
