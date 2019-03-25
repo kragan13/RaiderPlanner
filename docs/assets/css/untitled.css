@@ -18,3 +18,18 @@ a {
   text-align: left;
 }
 
+#about_body {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#about_header {
+	background-color: #30343a;
+	color: #efd751;
+	padding-top:20px;
+}
+
+#about_header h1{
+	padding-left:5px;
+}
+
